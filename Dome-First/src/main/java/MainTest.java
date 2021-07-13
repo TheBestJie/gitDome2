@@ -5,5 +5,7 @@ public class MainTest {
         System.out.println("hello git2");
 
         System.out.println("test change");
+
+        System.out.println("hello test");
     }
 }
